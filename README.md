@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<h3 align="center">Visitor Count
+<h3 align="center">
 
 [![](https://count.getloli.com/get/@binarstrike?theme=rule34)](https://github.com/journey-ad/Moe-counter)
 </h3>
