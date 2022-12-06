@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
+<h3 align="center">Visitor Count
+
+[![](https://count.getloli.com/get/@binarstrike?theme=rule34)](https://github.com/journey-ad/Moe-counter)
+</h3>
 <!--
 **binarstrike/binarstrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
