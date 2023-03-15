@@ -1,5 +1,11 @@
-## Hi there 👋
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+</h3>
+
 <!--
+## Hi there 👋
+
 <h3 align="center">
 
 [![](https://count.getloli.com/get/@binarstrike?theme=rule34)](https://github.com/journey-ad/Moe-counter)
