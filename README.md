@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="foo">
+</p>
+<!--
 <h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 </h3>
 
-<!--
+
 ## Hi there 👋
 
 <h3 align="center">
