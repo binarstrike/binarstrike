@@ -1,6 +1,6 @@
 <ul>
   <li>🔭 I’m currently working on side projects.</li>
-  <li>🌱 I’m currently learning Go (Golang), backend development and database administration.</li>
+  <li>🌱 I’m currently learning Go (Golang), Back-End Web Development and Database Administration.</li>
   <li>📫 How to reach me: <a href="mailto:binarnugroho775@gmail.com">binarnugroho775@gmail.com</a></li>
   <li>😄 Pronouns: he/him</li>
   <li>⚡ Fun fact: I love cats!</li>
