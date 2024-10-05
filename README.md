@@ -1,15 +1,15 @@
 Hi 👋 My name is Binar Nugroho
 ==============================
 
-Backend Developer
+Backend Developer | SysAdmin
 -----------------
 
 Hi there! I'm a Computer Science student at Amikom Purwokerto University with a passion for backend development. I'm still learning and growing, but I have a solid understanding of Go and JavaScript, and I'm proficient in using Docker for containerization and deployment. I've successfully built several backend applications using these technologies. I'm eager to learn new technologies and contribute to open-source projects. I have a strong curiosity and a desire to continuously improve my skills. Feel free to check out my repositories!
 
-* 🌍  I'm based in Indonesia, Central of Java
+* 🌍  I'm based in Indonesia, Central of Java.
 * ✉️  You can contact me at [binarnugroho775@gmail.com](mailto:binarnugroho775@gmail.com)
-* 🧠  I'm learning Go (Golang), Backend-Web Development and Database Administration
-* ⚡  I love cats.
+* 🧠  I'm currently learning Go (Golang), Backend-Web Development and Database Administration.
+* ⚡  Fun facts: I love cats.
 
 ### Skills
 
