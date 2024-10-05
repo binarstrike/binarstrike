@@ -4,6 +4,8 @@ Hi 👋 My name is Binar Nugroho
 Backend Developer
 -----------------
 
+Hi there! I'm a Computer Science student at Amikom Purwokerto University with a passion for backend development. I'm still learning and growing, but I have a solid understanding of Go and JavaScript, and I'm proficient in using Docker for containerization and deployment. I've successfully built several backend applications using these technologies. I'm eager to learn new technologies and contribute to open-source projects. I have a strong curiosity and a desire to continuously improve my skills. Feel free to check out my repositories!
+
 * 🌍  I'm based in Indonesia, Central of Java
 * ✉️  You can contact me at [binarnugroho775@gmail.com](mailto:binarnugroho775@gmail.com)
 * 🧠  I'm learning Go (Golang), Backend-Web Development and Database Administration
@@ -25,6 +27,6 @@ Backend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/binarstrike"><img src="https://github-readme-stats.vercel.app/api?username=binarstrike&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="binarstrike's GitHub stats" /></a>
+<a href="http://www.github.com/binarstrike"><img src="https://github-readme-stats.vercel.app/api?username=binarstrike&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true" alt="binarstrike's GitHub stats" /></a>
 
 <a href="http://www.github.com/binarstrike"><img src="https://github-readme-streak-stats.herokuapp.com/?user=binarstrike&stroke=14b8a6&background=181824&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
