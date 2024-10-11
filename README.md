@@ -8,7 +8,7 @@ Hi there! I'm a Computer Science student at Amikom Purwokerto University with a 
 
 * 🌍  I'm based in Indonesia, Central of Java.
 * ✉️  You can contact me at [binarnugroho775@gmail.com](mailto:binarnugroho775@gmail.com)
-* 🧠  I'm currently learning Go (Golang), Backend-Web Development and Database Administration.
+* 🧠  I'm currently learning Go (Golang), Backend-Web Development, Software Engineering and System Administration.
 * ⚡  Fun facts: I love cats.
 
 ### Skills
