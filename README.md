@@ -31,4 +31,4 @@ Hi there! I'm a Computer Science student at Amikom Purwokerto University with a 
 
 <a href="http://www.github.com/binarstrike"><img src="https://github-readme-streak-stats.herokuapp.com/?user=binarstrike&border_radius=8&theme=radical" /></a>
 
-<a href="http://www.github.com/binarstrike"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=binarstrike" /></a>
+<a href="http://www.github.com/binarstrike"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=binarstrike&layout=compact" /></a>
